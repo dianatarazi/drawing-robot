@@ -6,7 +6,7 @@
     <TabInfo>
       <wxString Value="/Users/dianatarazi/Documents/CPlusPlus/drawing-robot/DrawingRobot/GUI/main.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="0" Name="CurrentLine"/>
+      <int Value="8" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
